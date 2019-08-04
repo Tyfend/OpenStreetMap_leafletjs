@@ -1,4 +1,4 @@
-[
+var tab = [
     {
         "nom": "T\u00e9l\u00e9centre - Aurillac",
         "adresse": "44 boulevard du Pont Rouge",
@@ -263,4 +263,4 @@
         "latitude": 45.758811,
         "longitude": 3.129791
     }
-]
+];

@@ -20,3 +20,7 @@ Pour ce faire voici les ressources:
 - [Ressource 4](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/JSON/parse)
 - [Ressource 5](https://nouvelle-techno.fr/actualites/2018/05/11/pas-a-pas-inserer-une-carte-openstreetmap-sur-votre-site)
  
+Aide personnelle :
+- [JSON + Jquery](https://forum.alsacreations.com/topic-5-67904-1-Recuperer-les-donnees-dun-fichier-JSON.html)
+- [JSON + Js](https://openclassrooms.com/forum/sujet/recuperer-les-donnees-d-un-json-avec-javascript)
+- [JSON + Ajax](https://openclassrooms.com/forum/sujet/a-l-aide-fichier-json-et-variable-javascript)
