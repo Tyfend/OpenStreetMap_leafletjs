@@ -24,3 +24,4 @@ Aide personnelle :
 - [JSON + Jquery](https://forum.alsacreations.com/topic-5-67904-1-Recuperer-les-donnees-dun-fichier-JSON.html)
 - [JSON + Js](https://openclassrooms.com/forum/sujet/recuperer-les-donnees-d-un-json-avec-javascript)
 - [JSON + Ajax](https://openclassrooms.com/forum/sujet/a-l-aide-fichier-json-et-variable-javascript)
+- [exemple](http://www.askyb.com/javascript/load-json-file-locally-by-js-without-jquery/)
